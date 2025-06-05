@@ -47,6 +47,12 @@ Sou um desenvolvedor web apaixonado por criar interfaces intuitivas, acessíveis
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Framer](https://img.shields.io/badge/-framer-0055FF?logo=framer&logoColor=white&style=flat-square)
+![Shadcn](https://img.shields.io/badge/-shadcnui-000000?logo=shadcnui&logoColor=white&style=flat-square)
+![HeroUI](https://img.shields.io/badge/-heroui-000000?logo=heroui&logoColor=white&style=flat-square)
+![Vite](https://img.shields.io/badge/-vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![Sass](https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
 #### Back-End
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
@@ -59,6 +65,8 @@ Sou um desenvolvedor web apaixonado por criar interfaces intuitivas, acessíveis
 #### Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/-sqlite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 
 #### Ferramentas
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
